@@ -1,3 +1,6 @@
+## 🚧 Project Status
+CAD files and simulation visuals are currently being organized and will be uploaded progressively.
+
 # Crutch Design & Structural Analysis (SolidWorks)
 
 ## Overview
